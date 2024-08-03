@@ -2,7 +2,7 @@
 .Button {
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #ff85a2;
+  background-color: #0e0406;
   color: white;
   border: none;
   border-radius: 20px;
@@ -18,7 +18,7 @@
   background-color: #f0f8ff;
   color: #000;
   transform: scale(1.05);
-  border: 2px solid #ff85a2;
+  border: 2px solid #e9083d;
 }
 
 .Button:active {
